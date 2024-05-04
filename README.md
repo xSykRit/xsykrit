@@ -12,18 +12,17 @@
   
   <h3 align="center">Find me here:</h3>
   <p align="center">
-    <a href="https://twitter.com/ousamacodecraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ousamacodecraft" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/ousamathecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ousamathecoder" height="30" width="40" /></a>
+    <a href="https://twitter.com/x_sykrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SykRit" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/abdelilah-el-hassani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SykRit" height="30" width="40" /></a>
   </p>
-  
+  <!--
   <p><strong>Education:</strong></p>
-  
   ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
   ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
   ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
   ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-  <br>
-  
+  -->
+    <br>
   
 </div>
       
@@ -65,19 +64,19 @@
   }
 ```
       
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently studying **Software Engineering Program**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently studying **CyberSecurity**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux, Windows**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Philosophy, Movies or Gaming**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[Ousama Oujaber](https://www.linkedin.com/in/OusamaTheCoder)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **Debugging is like being the 🔍 detective in a crime drama 🔍 where you are also the 👻 murderer 😅**.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[Abdelilah El Hassani](https://www.linkedin.com/in/abdelilah-el-hassani)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fact: **If you know the enemy and know yourself, your victory will not stand in doubt.**.<br>
       
 <div align="center" >
     <a  href="https://github.com/OusamaTheCoder">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OusamaTheCoder&theme=github_dark" width="32.5%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OusamaTheCoder&theme=github_dark" width="32.5%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OusamaTheCoder&theme=github_dark" width="32.5%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSykRit&theme=github_dark" width="32.5%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xSykRit&theme=github_dark" width="32.5%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xSykRit&theme=github_dark" width="32.5%">
     </a>
     <strong>More stats</strong><br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OusamaTheCoder&theme=github_dark" 
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSykRit&theme=github_dark" 
     <hr></hr>
 </div>
