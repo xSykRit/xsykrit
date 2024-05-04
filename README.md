@@ -8,7 +8,7 @@
   <p><strong>Freelancing & Assisting my self at this life.</strong></p>
   <p><strong>The Types Of Songs I Like</strong></p>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31eb45nusovg6eyfsm754xxxkr3e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31eb45nusovg6eyfsm754xxxkr3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31eb45nusovg6eyfsm754xxxkr3e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31eb45nusovg6eyfsm754xxxkr3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
   
   <h3 align="center">Find me here:</h3>
   <p align="center">
