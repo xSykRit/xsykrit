@@ -1,21 +1,21 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+GitHub;I'm+SykRit;CyberSecurity+Enthusiast+;Penetration+Testing;Morocco+Software+Engineering;Hacking+Lover+:3;Power+CTF+Lover+%3C3" alt="Not-Found"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+GitHub;I'm+SykRit;CyberSecurity+Enthusiast+;Penetration+Testing;Software+Engineering;Hacking+Lover+:3;Power+CTF+Lover+%3C3" alt="Not-Found"></a>
 </div>
 
 <div align="center">
 
 ## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=f034fd&width=435&lines=-------------------------------------)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BSykRit%5D+profile;SykRit@root~%24+cat+root.txt+;SW0gTm90IEhhY2tlciwgSnVzdCBIYXJkIFdvcmsK;...............................;............H4CK3D!............;..............................;..............................;..............................;..............................;.............................;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=435&height=180&lines=(SykRit@root)-[~]+%23+nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BSykRit%5D+profile;(n00b@PC-G5t6CX)-[~]+%23+cat+root.txt+;SW0gTm90IEhhY2tlciwgSnVzdCBIYXJkIFdvcmsK;....................................;...............H4CK3D!..............;..................................;..................................;..........................;..............................;.............................;)](https://git.io/typing-svg)
 </div>
 
 </br>
 
 
 <div align="center"> 
-  <a href="https://www.youtube.com/@segmasec/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/x_sykrit" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/x.sykrit" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/qKX8cGsErA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:x.sykrit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--<a href = "mailto:email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/abdelilah-el-hassani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
@@ -24,7 +24,7 @@
 
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,linux,python,bash,azure,docker,discord,neovim,powershell,openstack,php,html,css,js,redux,mongodb,vim,visualstudio,vscode,stackoverflow,emacs,c,mysql,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,linux,windows,kali,arch,python,bash,azure,docker,discord,bots,powershell,wordpress,php,html,css,nodejs,mysql,mongodb,vim,visualstudio,vscode,stackoverflow,&perline=12)](https://skillicons.dev)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 ```dart
 ┌──(SykRit@root)-[~]
-└─$ cat SyKo.py
+└─# cat 404.py
 
 class хsя.чоч:
 
@@ -54,7 +54,7 @@ def  __social__(self):
  self.tlg = "чоч"
   
  ┌──(SykRit@root)-[~]
- └─$
+ └─# whoami
 
 ```
 
@@ -89,14 +89,11 @@ def  __social__(self):
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xSykRit&theme=react" width="32.5%">
     </a>
     <strong>More stats</strong><br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSykRit&theme=react" 
-    <hr></hr>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSykRit&theme=react">
 </div>
 
 <br>
 
 <div align="center" >
-    <strong>More stats</strong><br>
-    <img align="center" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" 
-    <hr></hr>
+    <img align="center" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
 </div>
